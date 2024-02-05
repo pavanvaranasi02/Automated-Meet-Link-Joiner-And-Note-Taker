@@ -4,10 +4,10 @@ from pyautogui import click,typewrite,press
 from time import sleep
 
 
-web.open_new_tab("http://www.webprosindia.com/Gokaraju/")
+web.open_new_tab("http://www.webprosindia.com/*****/")
 sleep(10)
-username = "20241A1256"
-password = "9849794337"
+username = "20241A12**"
+password = "***********"
 
 click(x=839, y=489,duration=0.5)  # Username Btn
 sleep(1)
